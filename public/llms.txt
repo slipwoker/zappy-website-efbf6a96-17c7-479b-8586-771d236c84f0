@@ -1,0 +1,88 @@
+# Get Table — Generative Engine Optimization Map
+
+> A משחקים ופנאי business.
+
+---
+
+## Pages
+
+### Home
+https://get-table-efbf6a96.zappy5.app
+
+### About
+https://get-table-efbf6a96.zappy5.app/about
+
+### Collection
+https://get-table-efbf6a96.zappy5.app/collection
+
+### Contact
+https://get-table-efbf6a96.zappy5.app/contact
+
+### Products
+https://get-table-efbf6a96.zappy5.app/products
+המוצרים שלנו - Get Table
+
+### Cart
+https://get-table-efbf6a96.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://get-table-efbf6a96.zappy5.app/checkout
+תשלום
+
+### Login
+https://get-table-efbf6a96.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://get-table-efbf6a96.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://get-table-efbf6a96.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://get-table-efbf6a96.zappy5.app/product/:slug
+פרטי המוצר - Get Table
+
+### Category
+https://get-table-efbf6a96.zappy5.app/category/:slug
+מוצרים - Get Table
+
+## Legal & Policy
+
+### Privacy Policy
+https://get-table-efbf6a96.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://get-table-efbf6a96.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://get-table-efbf6a96.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Get Table
+Get Table is a business in the משחקים ופנאי industry.
+
+## Target Audience
+- הורים ממוקדי משפחה
+- חובבי לילות משחק
+- בוני צוותים בחברות
+- מארגני קהילות פרישה
+
+## Industry
+משחקים ופנאי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://get-table-efbf6a96.zappy5.app/sitemap.xml
+- **Robots.txt**: https://get-table-efbf6a96.zappy5.app/robots.txt
